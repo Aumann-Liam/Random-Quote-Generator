@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  color: Sienna;
+  background-color: SlateGray;
+}
+
+#stuff {
+  border-radius: 20px;
+  background-color: DarkSeaGreen;
+  margin-top: 20px;
+  color: Sienna;
+  font-size: 25px
+}
+
+
+/*Buttons*/
+.button {
+  font-size: 15px;
+  color: Sienna;
+  background-color: #F7F7F7;
+  border-radius: 5px;
+  border: 3px solid rgba(0,0,0,0)
+}
+
+.button:active {
+  background: white;
+}
+
+button:focus {
+  outline: 0;
+}
